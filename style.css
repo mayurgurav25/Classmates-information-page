@@ -1,0 +1,27 @@
+.header {
+    background: linear-gradient(rgb(111, 230, 111), white);
+    color: red;
+    padding: 20px;
+}
+
+h3 {
+    color: purple;
+}
+
+h6 {
+    color: grey;
+}
+
+.row {
+    background-color: rgba(128, 128, 128, 0.103);
+    border-bottom: 2px solid purple;
+}
+
+.row:hover {
+    background-color: rgba(128, 128, 128, 0.233);
+    ;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
